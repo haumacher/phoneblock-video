@@ -1,0 +1,42 @@
+{
+ "s0a": {
+  "text": "Kennst du das? Du sitzt gemütlich beim Abendessen – und das Telefon klingelt.",
+  "duration": 4.134
+ },
+ "s0b": {
+  "text": "Und am anderen Ende: wieder so ein Werbeanruf.",
+  "duration": 2.811
+ },
+ "s0c": {
+  "text": "Spulen wir zurück. Gleicher Abend, gleicher Anruf – aber diesmal steckt ein PhoneBlock-Dongle in deinem Router.",
+  "duration": 6.184
+ },
+ "s0d": {
+  "text": "Er erkennt: Das ist Spam. Und nimmt den Anruf einfach selbst an. Dein Telefon? Bleibt still.",
+  "duration": 5.706
+ },
+ "s1a": {
+  "text": "Der PhoneBlock-Dongle ist ein kleiner USB-Stick für rund zehn Euro. Er steckt im Router und meldet sich dort wie ein zusätzliches Telefon an.",
+  "duration": 7.299
+ },
+ "s1b": {
+  "text": "Kommt ein Anruf rein, gibt der Router ihn an alle Telefone weiter – auch an den Dongle.",
+  "duration": 4.52
+ },
+ "s1c": {
+  "text": "Der fragt in Sekundenbruchteilen bei PhoneBlock nach: Ist diese Nummer als Spam bekannt? Die Liste pflegen tausende Nutzer gemeinsam.",
+  "duration": 6.835
+ },
+ "s1d1": {
+  "text": "Wenn ja, nimmt der Dongle ab und spielt eine kurze Ansage …",
+  "duration": 3.233
+ },
+ "s1d2": {
+  "text": "… und legt wieder auf. Deine echten Telefone haben nicht einmal geklingelt.",
+  "duration": 3.623
+ },
+ "s1e": {
+  "text": "Und bei einem ganz normalen Anruf? Macht der Dongle einfach: nichts.",
+  "duration": 3.654
+ }
+}

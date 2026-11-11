@@ -1,0 +1,1 @@
+GpMEuRGYD0oLjmn4ptQZMit Display gibt's den T-Dongle-S3 von LilyGo. Achte beim Kauf auf ESP32, ESP32-C3 – oder ESP32-S3 mit sechzehn Megabyte Flash.

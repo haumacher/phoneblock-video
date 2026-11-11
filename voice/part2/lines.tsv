@@ -1,0 +1,25 @@
+p1	VBhW9TV6mNHCxbcqSl17	Jaaa, schönen guten Tag! Hier ist Ihr Energieversorger – ich hab da ein ganz unglaubliches Angebot für Sie!
+p2	VBhW9TV6mNHCxbcqSl17	Äh … ja, super! Also, Sie können ab sofort bis zu dreißig Prozent sparen!
+p3	VBhW9TV6mNHCxbcqSl17	Na ja, also … wenn Sie heute wechseln, dann zahlen Sie einfach … weniger!
+p4	VBhW9TV6mNHCxbcqSl17	Okay. Ich bräuchte jetzt nur ganz kurz Ihre Zählernummer.
+p5	VBhW9TV6mNHCxbcqSl17	IHRE ZÄHLERNUMMER!
+p6	VBhW9TV6mNHCxbcqSl17	Wissen Sie was? Vergessen Sie's einfach.
+n0	GpMEuRGYD0oLjmn4ptQZ	Und jetzt, wie versprochen: das Gespräch. Statt einer Ansage kann der Dongle Werbeanrufer nämlich auch einfach … beschäftigen. Hör mal rein:
+n1	GpMEuRGYD0oLjmn4ptQZ	Jede Minute, die ein Werbeanrufer mit deinem Dongle plaudert, kann er niemand anderen nerven. Ob Ansage oder Gespräch – und mit welcher Stimme – stellst du in der Weboberfläche ein.
+i0	GpMEuRGYD0oLjmn4ptQZ	Und so kommt der Dongle zu dir nach Hause. Zuerst die wichtigste Frage: Passt das bei dir?
+i1	GpMEuRGYD0oLjmn4ptQZ	Mit jeder Fritz!Box klappt es – egal, bei welchem Anbieter. Und an jedem Telekom-Anschluss – egal, mit welchem Router.
+i2	GpMEuRGYD0oLjmn4ptQZ	Andere Router gehen auch, wenn sich dort ein IP-Telefon anmelden lässt. Nur Vodafone mit EasyBox klappt leider nicht.
+i3	GpMEuRGYD0oLjmn4ptQZ	Schritt eins: den Dongle bestellen. Ein ESP32-USB-Stick kostet rund zehn Euro und kommt in etwa zwei Wochen.
+i4	GpMEuRGYD0oLjmn4ptQZ	Mit Display gibt's den T-Dongle-S3 von LilyGo. Achte beim Kauf auf ESP32, ESP32-C3 – oder ESP32-S3 mit sechzehn Megabyte Flash.
+i5	GpMEuRGYD0oLjmn4ptQZ	Schritt zwei: die Software aufspielen. Steck den Dongle in deinen Computer und öffne phoneblock.net/dongle – in Chrome oder Edge.
+i6	GpMEuRGYD0oLjmn4ptQZ	Klick auf „Jetzt flashen“, wähle den Dongle aus und bestätige die Installation. Nach etwa einer Minute ist er fertig.
+i7	GpMEuRGYD0oLjmn4ptQZ	Programmieren musst du dabei nichts – das ist wirklich nur ein Klick im Browser.
+i8	GpMEuRGYD0oLjmn4ptQZ	Schritt drei: Steck den Dongle in den USB-Anschluss deines Routers. Die LED blinkt schnell blau – er wartet auf dein WLAN.
+i9	GpMEuRGYD0oLjmn4ptQZ	Drück am Router kurz die WPS-Taste. Ein paar Sekunden später blitzt die LED nur noch kurz auf: Der Dongle ist im Netz.
+i10	GpMEuRGYD0oLjmn4ptQZ	Schritt vier: die Einrichtung – ganz bequem am Handy. Öffne „answerbot“ im Browser und tipp auf „Telefonie einrichten“.
+i11	GpMEuRGYD0oLjmn4ptQZ	Wähle Fritz!Box, gib einmal dein Fritz!Box-Passwort ein – und der Dongle legt sich selbst als Telefon an.
+i12	GpMEuRGYD0oLjmn4ptQZ	Zur Sicherheit fragt die Fritz!Box kurz nach: Drück eine Taste an der Box oder wähl den angezeigten Code am Telefon.
+i13	GpMEuRGYD0oLjmn4ptQZ	Jetzt noch mit PhoneBlock verbinden: einmal anmelden – den Zugang holt sich der Dongle selbst.
+i14	GpMEuRGYD0oLjmn4ptQZ	Angemeldet, Token gesetzt, die LED leuchtet grün. Ab jetzt fängt der Dongle Werbeanrufe ab.
+i15	GpMEuRGYD0oLjmn4ptQZ	Und noch ein wichtiger Hinweis: Der Dongle gehört ins Heimnetz. Richte im Router keine Portfreigabe für ihn ein.
+e1	GpMEuRGYD0oLjmn4ptQZ	Alles Weitere findest du auf phoneblock.net/dongle. Viel Ruhe am Telefon!

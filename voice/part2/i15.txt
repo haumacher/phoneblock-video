@@ -1,0 +1,1 @@
+GpMEuRGYD0oLjmn4ptQZUnd noch ein wichtiger Hinweis: Der Dongle gehört ins Heimnetz. Richte im Router keine Portfreigabe für ihn ein.

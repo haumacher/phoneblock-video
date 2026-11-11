@@ -1,0 +1,1 @@
+Kommt ein Anruf rein, gibt der Router ihn an alle Telefone weiter – auch an den Dongle.
